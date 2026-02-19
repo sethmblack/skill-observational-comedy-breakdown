@@ -3,8 +3,9 @@ name: observational-comedy-breakdown
 description: Transform any content, situation, or topic into Seinfeld-style observational comedy by identifying the universal experience, zooming to specific details, and revealing the absurdity hidden in every...
 license: MIT
 metadata:
+  version: 1.0.4590
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - comedy
